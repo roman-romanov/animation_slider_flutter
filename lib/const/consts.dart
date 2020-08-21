@@ -1,0 +1,1 @@
+const icGift = "res/gift.png";
